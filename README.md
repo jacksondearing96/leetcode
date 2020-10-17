@@ -116,3 +116,4 @@
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|20 ms|
 |824|[ Goat Latin](https://leetcode.com/problems/goat-latin/)|[C++](./solutions/824.%20Goat%20Latin.cpp)|20 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|24 ms|
+|1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C++](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.cpp)|24 ms|
