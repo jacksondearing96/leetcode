@@ -30,3 +30,4 @@
 |47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](./solutions/47.%20Permutations%20II.cpp)|296 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|92 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|12 ms|
+|58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./solutions/58.%20Length%20of%20Last%20Word.cpp)|4 ms|
