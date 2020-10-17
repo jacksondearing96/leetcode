@@ -34,3 +34,4 @@
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|4 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./solutions/64.%20Minimum%20Path%20Sum.cpp)|100 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[C++](./solutions/66.%20Plus%20One.cpp)|0 ms|
+|67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./solutions/67.%20Add%20Binary.cpp)|4 ms|
