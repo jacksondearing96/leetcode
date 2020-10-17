@@ -28,3 +28,4 @@
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./solutions/38.%20Count%20and%20Say.cpp)|4 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[C++](./solutions/46.%20Permutations.cpp)|4 ms|
 |47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](./solutions/47.%20Permutations%20II.cpp)|296 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|92 ms|
