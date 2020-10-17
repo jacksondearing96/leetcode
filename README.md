@@ -90,3 +90,4 @@
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|52 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)|4 ms|
 |231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./solutions/231.%20Power%20of%20Two.cpp)|4 ms|
+|232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./solutions/232.%20Implement%20Queue%20using%20Stacks.cpp)|0 ms|
