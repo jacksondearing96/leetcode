@@ -111,3 +111,4 @@
 |500|[ Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[C++](./solutions/500.%20Keyboard%20Row.cpp)|0 ms|
 |506|[ Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[C++](./solutions/506.%20Relative%20Ranks.cpp)|96 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
+|561|[ Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C++](./solutions/561.%20Array%20Partition%20I.cpp)|144 ms|
