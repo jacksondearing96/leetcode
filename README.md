@@ -96,3 +96,4 @@
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|8 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|12 ms|
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](./solutions/289.%20Game%20of%20Life.cpp)|4 ms|
+|292|[ Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./solutions/292.%20Nim%20Game.cpp)|4 ms|
