@@ -108,3 +108,4 @@
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./solutions/463.%20Island%20Perimeter.cpp)|264 ms|
 |486|[ Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[C++](./solutions/486.%20Predict%20the%20Winner.cpp)|4 ms|
 |495|[ Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[C++](./solutions/495.%20Teemo%20Attacking.cpp)|60 ms|
+|500|[ Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[C++](./solutions/500.%20Keyboard%20Row.cpp)|0 ms|
