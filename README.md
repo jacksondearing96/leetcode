@@ -84,7 +84,7 @@
 |200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./solutions/200.%20Number%20of%20Islands.cpp)|84 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./solutions/202.%20Happy%20Number.cpp)|4 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./solutions/203.%20Remove%20Linked%20List%20Elements.cpp)|36 ms|
-|205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./solutions/205.%20Isomorphic%20Strings.cpp)|996 ms|
+|205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./solutions/205.%20Isomorphic%20Strings.cpp)|16 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./solutions/217.%20Contains%20Duplicate.cpp)|28 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./solutions/219.%20Contains%20Duplicate%20II.cpp)|36 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|52 ms|
