@@ -102,3 +102,4 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|88 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|8 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](./solutions/412.%20Fizz%20Buzz.cpp)|8 ms|
+|434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[C++](./solutions/434.%20Number%20of%20Segments%20in%20a%20String.cpp)|4 ms|
