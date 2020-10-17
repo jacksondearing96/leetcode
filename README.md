@@ -33,3 +33,4 @@
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./solutions/58.%20Length%20of%20Last%20Word.cpp)|4 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|4 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./solutions/64.%20Minimum%20Path%20Sum.cpp)|100 ms|
+|66|[ Plus One](https://leetcode.com/problems/plus-one/)|[C++](./solutions/66.%20Plus%20One.cpp)|0 ms|
