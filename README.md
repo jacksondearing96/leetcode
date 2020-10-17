@@ -98,3 +98,4 @@
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](./solutions/289.%20Game%20of%20Life.cpp)|4 ms|
 |292|[ Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./solutions/292.%20Nim%20Game.cpp)|4 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|32 ms|
+|383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](./solutions/383.%20Ransom%20Note.cpp)|24 ms|
