@@ -118,3 +118,4 @@
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|24 ms|
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C++](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.cpp)|24 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[C++](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|28 ms|
+|1387|[ Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[C++](./solutions/1387.%20Sort%20Integers%20by%20The%20Power%20Value.cpp)|36 ms|
