@@ -29,3 +29,4 @@
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[C++](./solutions/46.%20Permutations.cpp)|4 ms|
 |47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](./solutions/47.%20Permutations%20II.cpp)|296 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|92 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|12 ms|
