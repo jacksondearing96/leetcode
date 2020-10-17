@@ -84,3 +84,4 @@
 |200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./solutions/200.%20Number%20of%20Islands.cpp)|84 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./solutions/202.%20Happy%20Number.cpp)|4 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./solutions/203.%20Remove%20Linked%20List%20Elements.cpp)|36 ms|
+|205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./solutions/205.%20Isomorphic%20Strings.cpp)|996 ms|
