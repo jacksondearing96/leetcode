@@ -113,3 +113,4 @@
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |561|[ Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C++](./solutions/561.%20Array%20Partition%20I.cpp)|144 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./solutions/709.%20To%20Lower%20Case.cpp)|0 ms|
+|771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|20 ms|
