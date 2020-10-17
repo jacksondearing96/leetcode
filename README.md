@@ -31,3 +31,4 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|92 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|12 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./solutions/58.%20Length%20of%20Last%20Word.cpp)|4 ms|
+|62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|4 ms|
