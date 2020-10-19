@@ -62,6 +62,7 @@
 |110|[ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./solutions/110.%20Balanced%20Binary%20Tree.cpp)|12 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.cpp)|16 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./solutions/112.%20Path%20Sum.cpp)|4 ms|
+|115|[ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./solutions/115.%20Distinct%20Subsequences.cpp)|304 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|20 ms|
 |118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./solutions/118.%20Pascal's%20Triangle.cpp)|0 ms|
 |119|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./solutions/119.%20Pascal's%20Triangle%20II.cpp)|0 ms|
