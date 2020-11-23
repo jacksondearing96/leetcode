@@ -141,6 +141,7 @@
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./solutions/771.%20Jewels%20and%20Stones.cpp)|20 ms|
 |824|[ Goat Latin](https://leetcode.com/problems/goat-latin/)|[C++](./solutions/824.%20Goat%20Latin.cpp)|20 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|24 ms|
+|876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./solutions/876.%20Middle%20of%20the%20Linked%20List.cpp)|0 ms|
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C++](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.cpp)|24 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[C++](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|28 ms|
 |1387|[ Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[C++](./solutions/1387.%20Sort%20Integers%20by%20The%20Power%20Value.cpp)|36 ms|
