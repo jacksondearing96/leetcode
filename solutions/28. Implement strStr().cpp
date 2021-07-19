@@ -1,34 +1,24 @@
 class Solution {
 public:
+    
+    int needleIsAtPosition(const string& haystack, const string& needle, const int position, const int needleIndex = 0) {
+        if (needleIndex >= needle.length()) return position;
+        
+        // Optimisation if the needle becomes too big to possibly be found.
+        int remainingHaystack = haystack.length() - position - needleIndex;
+        if (needle.length() - needleIndex > remainingHaystack) return -1;
+        
+        if (haystack[position + needleIndex] != needle[needleIndex]) return -1;
+        
+        return needleIsAtPosition(haystack, needle, position, needleIndex + 1);
+    }
+    
     int strStr(string haystack, string needle) {
+        if (needle.length() > haystack.length()) return -1;
         
-        if (needle.length() == 0)
-            return 0;
-        
-        if (haystack.length() == 0)
-            return -1;
-        
-        if (needle.length() > haystack.length())
-            return -1;
-        
-        bool found;
-        
-        for (int i=0 ; i<=haystack.length() - needle.length() ; i++)
-        {
-            if (haystack[i] == needle[0])
-            {
-                found = true;
-                for (int j=1 ; j<needle.length() ; j++)
-                {
-                    if (haystack[i+j] != needle[j])
-                        found = false;
-                }
-                
-                if (found)
-                    return i;
-            }
+        for (int i = 0; i < haystack.length(); ++i) {
+            if (needleIsAtPosition(haystack, needle, i) != -1) return i; 
         }
-        
-        return -1;
+        return needle.empty() ? 0 : -1;
     }
 };
