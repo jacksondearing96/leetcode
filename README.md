@@ -118,6 +118,7 @@
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./solutions/328.%20Odd%20Even%20Linked%20List.cpp)|40 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|28 ms|
 |345|[ Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./solutions/345.%20Reverse%20Vowels%20of%20a%20String.cpp)|12 ms|
+|367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./solutions/367.%20Valid%20Perfect%20Square.cpp)||
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](./solutions/383.%20Ransom%20Note.cpp)|24 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|88 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|8 ms|
